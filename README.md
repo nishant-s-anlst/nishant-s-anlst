@@ -1,6 +1,6 @@
 ## Hi, I'm Nishant! 👋 
 
-Welcome to my GitHub! I analyze data using SQL, Power BI, and Excel to deliver meaningful insights. These insights help businesses make data-driven decisions 🤔, identify emerging trends 📈, mitigate risks ⚠, and stay competitive in the market 🚀
+Welcome to my 'GitHub'! I analyze data using SQL, Power BI, and Excel to deliver meaningful insights. These insights help businesses make data-driven decisions 🤔, identify emerging trends 📈, mitigate risks ⚠, and stay competitive in the market 🚀
 
 ## About Me
 - 👨‍💻 Exploring Data Science & Analytics
