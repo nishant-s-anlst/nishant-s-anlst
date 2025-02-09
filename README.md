@@ -7,10 +7,10 @@ Welcome to my GitHub! I analyze data using SQL, Power BI, and Excel to deliver m
 🌱 Currently a Data Analyst Intern at Atliq Technologies
 🎓 Master’s in Computer Applications (MCA)
 
-## Key Skillset
-Excel
-PowerBI
-MySQL
+** Skills & Expertise: **
+- Excel
+- PowerBI
+- MySQL
 
 ## Projects
 Business Insights 360: An analysis project providing comprehensive insights into business operations.
