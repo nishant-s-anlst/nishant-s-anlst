@@ -15,6 +15,8 @@ Welcome to my **GitHub!** I analyze data using *SQL*, *Power BI*, and *Excel* to
 ## Projects
 - [Business Insights 360](https://github.com/nishant-s-anlst/): An analysis project providing comprehensive insights into business operations.
 
-
+##Let's Connect
+- ✉️ [Email](mailto:nsharma1817@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nishant-s-analyst/)
 
 Explore my repositories and let’s collaborate on something awesome! 🚀
