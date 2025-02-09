@@ -13,7 +13,7 @@ Welcome to my **GitHub!** I analyze data using *SQL*, *Power BI*, and *Excel* to
 - MySQL
 
 ## Projects
-- [Business Insights 360](https://github.com/your-username): An analysis project providing comprehensive insights into business operations.
+- [Business Insights 360](https://#): An analysis project providing comprehensive insights into business operations.
 
 
 
