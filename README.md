@@ -17,6 +17,6 @@ Welcome to my **GitHub!** I analyze data using *SQL*, *Power BI*, and *Excel* to
 
 ## Let's Connect!
 - ✉️ [Email](mailto:nsharma1817@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nishant-s-analyst/)
+- [![LinkedIn](https://www.linkedin.com/in/nishant-s-analyst/)
 
 *Explore my repositories and let’s collaborate on something awesome!* 🚀
