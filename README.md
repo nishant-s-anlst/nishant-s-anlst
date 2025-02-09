@@ -9,7 +9,7 @@ Welcome to my **GitHub!** I analyze data using *SQL*, *Power BI*, and *Excel* to
 
 ## Skills 
 - Excel
-- PowerBI
+- Power BI
 - MySQL
 
 ## Projects
