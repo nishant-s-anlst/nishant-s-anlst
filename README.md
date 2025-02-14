@@ -3,8 +3,8 @@
 Welcome to my **GitHub!** I analyze data using *SQL*, *Power BI*, and *Excel* to deliver meaningful insights. These insights help businesses make data-driven decisions 🤔, identify emerging trends 📈, mitigate risks ⚠, and stay competitive in the market 🚀
 
 ## About Me
-- 👨‍💻 Exploring Data Science & Analytics
-- 🌱 Currently a Data Analyst Intern at Atliq Technologies
+- 👨‍💻 Gaining hands-on experience in Data Science & Analytics as an MIS Executive at Pelikan Dossier Pvt Ltd
+- 🌱 Building real-world Data Analysis projects to enhance practical skills
 - 🎓 Master’s in Computer Applications (MCA)
 
 ## Skills 
